@@ -72,7 +72,7 @@
             "AW_PROXY": "1"
         },
         "SkyStreaming": {
-            "url": "https://skystreaming.onl",
+            "url": "https://skystreaming.cam",
             "enabled": "1"
         },
         "DaddyLiveHD": {
@@ -84,7 +84,7 @@
         "load_env": "0",
         "HOST": "0.0.0.0",
         "PORT": "8080",
-        "Name": "MammaMiaa",
+        "Name": "MammaMia",
         "Icon": "🍕️",
         "Public_Instance": "0",
         "Remote_Instance": "1",
