@@ -13,7 +13,7 @@
             "enabled": "1"
         },
         "Tantifilm": {
-            "url": "https://www.tantifilm.food",
+            "url": "https://filmpertutti.army",
             "TF_ForwardProxy": "0",
             "TF_PROXY": "0",
             "enabled": "1"
@@ -66,7 +66,7 @@
             "OST_PROXY": "0"
         },
         "AnimeWorld": {
-            "url": "https://onlineserietv.com",
+            "url": "www.animeworld.ac",
             "enabled": "1",
             "AW_ForwardProxy": "0",
             "AW_PROXY": "0"
